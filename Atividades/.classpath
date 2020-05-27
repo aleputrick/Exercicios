@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/aleea/Downloads/xstream-1.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aleea/Downloads/slick-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aleea/Downloads/jME3.3.2-stable/jMonkeyEngine3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
