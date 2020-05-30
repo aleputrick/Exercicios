@@ -6,8 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/aleea/Downloads/xstream-1.4.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/aleea/Downloads/slick-util.jar"/>
 	<classpathentry kind="lib" path="C:/Users/aleea/Downloads/dom4j-1.6.1.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/alepu/Downloads/postgresql-42.2.12.jar"/>
+>>>>>>> branch 'master' of https://github.com/aleputrick/Exercicios.git
 	<classpathentry kind="output" path="bin"/>
 </classpath>
